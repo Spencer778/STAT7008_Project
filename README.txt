@@ -1,8 +1,11 @@
+The presentation video has been posted on YouTube
+Please refer to: https://youtu.be/QclAUeRFAr4
+
 For item-based filering system:
 
 This system is run on jupyter notebook. 
 If you are going to check the result, please run the file, item_based_system.ipynb, in Item-based-system folder.
-Its corresponding data is in the folder, too, named item_based_data.csv.
+Its corresponding data is in the folder, too, named 'item_based_data.csv'.
 
 For content-based system:
 
@@ -36,8 +39,8 @@ One of the following methods is OK
     Step 1: Download this repository to your local machine.
     Step 2: Install all the libraries mentioned above
     Step 3: Open your terminal/command prompt from your project directory, e.g. C:\xxx\Desktop\Content-based-system
-    Step 4: Run the file `main.py` by executing the command `python main.py`.
-    Step 5: Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
+    Step 4: Run the file 'main.py' by executing the command 'python main.py'.
+    Step 5: Go to your browser and type 'http://127.0.0.1:5000/' in the address bar.
 
 2.3 Method 2:
     Step 1: Download this repository to your local machine.
